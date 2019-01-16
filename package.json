@@ -1,8 +1,11 @@
 {
-  "name": "stylelint-config-unisian",
+  "name": "@by-association-only/stylelint-config-unisian",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/baoagency/stylelint-config-unisian",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baoagency/stylelint-config-unisian.git"
+  },
   "author": "Dan Gamble",
   "license": "MIT",
   "dependencies": {
@@ -12,5 +15,14 @@
   },
   "peerDependencies": {
     "stylelint": "^9.10.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/baoagency/stylelint-config-unisian/issues"
+  },
+  "homepage": "https://github.com/baoagency/stylelint-config-unisian#readme",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "description": ""
 }
