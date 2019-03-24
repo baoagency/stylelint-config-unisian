@@ -9,12 +9,12 @@
   "author": "Dan Gamble",
   "license": "MIT",
   "dependencies": {
-    "stylelint-config-prettier": "^4.0.0",
+    "stylelint-config-prettier": "^5.0.0",
     "stylelint-config-shopify": "^7.1.0",
-    "stylelint-order": "^2.0.0"
+    "stylelint-order": "^2.1.0"
   },
   "peerDependencies": {
-    "stylelint": "^9.10.0"
+    "stylelint": "^9.10.1"
   },
   "bugs": {
     "url": "https://github.com/baoagency/stylelint-config-unisian/issues"
