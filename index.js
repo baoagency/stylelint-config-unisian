@@ -4,11 +4,12 @@ module.exports = {
   ],
   'rules': {
     'order/order': [
-      'custom-properties',
+      // @include should come before custom-properties as we want the local custom properties to override the mixin ones
       {
         'type': 'at-rule',
         'name': 'include'
       },
+      'custom-properties',
       'declarations',
       {
         'type': 'at-rule',
