@@ -147,8 +147,8 @@ module.exports = {
           'text-overflow',
           'text-rendering',
           'text-transform',
-          'work-break',
-          'work-wrap'
+          'word-break',
+          'word-wrap'
         ]
       },
       {
