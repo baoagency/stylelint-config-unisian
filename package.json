@@ -1,6 +1,6 @@
 {
   "name": "@by-association-only/stylelint-config-unisian",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -9,12 +9,11 @@
   "author": "Dan Gamble",
   "license": "MIT",
   "dependencies": {
-    "stylelint-config-prettier": "^5.0.0",
-    "stylelint-config-shopify": "^7.1.0",
-    "stylelint-order": "^2.1.0"
+    "stylelint-config-prettier": ">=9.0.0",
+    "stylelint-order": ">=5.0.0"
   },
   "peerDependencies": {
-    "stylelint": "^9.10.1"
+    "stylelint": ">=14.5.0"
   },
   "bugs": {
     "url": "https://github.com/baoagency/stylelint-config-unisian/issues"
