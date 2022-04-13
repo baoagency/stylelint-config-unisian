@@ -112,7 +112,7 @@ module.exports = {
   'keyframe-declaration-no-important': true,
 
   // Number
-  'number-max-precision': 5,
+  'number-max-precision': 10,
   'number-leading-zero': 'always',
   'number-no-trailing-zeros': true,
 
