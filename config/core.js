@@ -125,7 +125,7 @@ module.exports = {
   'selector-attribute-operator-space-after': 'never',
   'selector-attribute-operator-space-before': 'never',
   'selector-attribute-quotes': 'always',
-  'selector-class-pattern': '^[a-z]([a-z0-9]){1,3}-[A-Z0-9][a-zA-Z0-9]+(_[A-Z][a-zA-Z0-9]+)?(-[a-z0-9]([a-zA-Z0-9-]+)?([a-z0-9]+)?)?$',
+  'selector-class-pattern': '^[a-z]([a-z0-9]){1,3}-[A-Z][a-zA-Z0-9]+(_[A-Z][a-zA-Z0-9]+)?(-[a-z0-9]([a-zA-Z0-9-]+)?([a-z0-9]+)?)?$',
   'selector-combinator-space-after': 'always',
   'selector-combinator-space-before': 'always',
   'selector-descendant-combinator-no-non-space': true,
